@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "docuquote-landing-page",
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -21,7 +21,7 @@ export default function AppBar() {
           </h1>
           {/* Desktop Title */}
           <h1 className="text-white font-bold text-lg hidden sm:block truncate min-w-0">
-            DocuQuote: Quotation & Invoice Maker
+            Ivent: Easy Manage Event
           </h1>
         </div>
 

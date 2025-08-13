@@ -36,13 +36,13 @@ export default function Home() {
         className="h-screen flex flex-col justify-center items-center bg-gray-900 text-white text-center px-4"
       >
         <h1 className="text-lg font-bold">
-          Kelola Quotation & Invoice Lebih Mudah
+          Kelola Event Lebih Mudah
         </h1>
         <p className="mt-4 text-lg max-w-2xl">
-          DocuQuote membantu Anda membuat, mengelola, dan mengirim quotation serta invoice dengan cepat dari smartphone Anda.
+          Ivent membantu Anda membuat, mengelola event dengan cepat dari smartphone Anda.
         </p>
         <a
-          href="https://play.google.com/store/apps/details?id=com.docuquote.bundleId" // ganti dengan link Play Store asli
+          href="https://play.google.com/store/apps/details?id=com.ivent.innotia" // ganti dengan link Play Store asli
           target="_blank"
           rel="noopener noreferrer"
           className="mt-6 px-6 py-3 bg-green-500 hover:bg-green-600 rounded-lg text-white flex items-center space-x-2"
@@ -67,9 +67,7 @@ export default function Home() {
       >
         <h2 className="text-3xl font-bold mb-6">Tentang Aplikasi</h2>
         <p className="max-w-3xl mx-auto">
-          DocuQuote dirancang untuk membantu pelaku usaha, freelancer, dan profesional
-          dalam mengelola dokumen bisnis dengan cepat. Anda bisa membuat quotation dan
-          invoice hanya dalam hitungan menit, langsung dari smartphone.
+          Ivent dirancang untuk membantu dalam mengelola Event dengan mudah dab cepat. Anda bisa membuat Event hanya dalam hitungan menit, langsung dari smartphone.
         </p>
       </section>
 
@@ -80,11 +78,11 @@ export default function Home() {
       >
         <h2 className="text-3xl font-bold mb-6">Dapatkan Sekarang</h2>
         <p className="mb-6">
-          Unduh DocuQuote sekarang di Google Play Store dan mulai kelola dokumen bisnis
+          Unduh Ivent sekarang di Google Play Store dan mulai kelola dokumen bisnis
           Anda dengan lebih efisien.
         </p>
         <a
-          href="https://play.google.com/store/apps/details?id=com.docuquote.bundleId" // ganti dengan link Play Store asli
+          href="https://play.google.com/store/apps/details?id=com.ivent.innotia" // ganti dengan link Play Store asli
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center space-x-2 px-6 py-3 bg-green-500 hover:bg-green-600 text-white rounded-lg"
@@ -111,7 +109,7 @@ export default function Home() {
         <div className="flex flex-col sm:flex-row justify-center gap-6">
           {/* Email Button */}
           <a
-            href="mailto:official@innotia.asia?subject=Pertanyaan%20DocuQuote"
+            href="mailto:official@innotia.asia?subject=Pertanyaan%20Ivent"
             className="px-6 py-3 bg-red-800 hover:bg-blue-700 text-white rounded-lg inline-flex items-center justify-center"
             target="_blank"
             rel="noopener noreferrer"
@@ -127,7 +125,7 @@ export default function Home() {
 
           {/* WhatsApp Button */}
           <a
-            href="https://wa.me/6281385942154?text=Halo%20DocuQuote,%20saya%20ingin%20bertanya%20tentang%20aplikasi%20Anda."
+            href="https://wa.me/6281385942154?text=Halo%20Ivent,%20saya%20ingin%20bertanya%20tentang%20aplikasi%20Anda."
             className="px-6 py-3 bg-green-600 hover:bg-green-700 text-white rounded-lg inline-flex items-center justify-center"
             target="_blank"
             rel="noopener noreferrer"

@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "docuquote-landing-page",
+    "site": "ivent-landing-page",
     "public": "out",
     "ignore": [
       "firebase.json",
